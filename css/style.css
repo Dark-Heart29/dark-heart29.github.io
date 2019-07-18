@@ -135,6 +135,7 @@ nav ul li a:hover{
 .about-p p{
     font-size: 20px;
     font-family: 'Ubuntu', sans-serif;
+    color: #3C4043;
     line-height: 1.6em;
     text-align: justify;
 }
